@@ -5,6 +5,8 @@
 - construct
 - execute
 
+Objective: ...
+
 | Milestone | Tasks/Deliverables | Outcomes | Time estimate |
 |-----------|--------------------|----------|---------------|
 | Planning and analysing 1 | | | |
