@@ -1,6 +1,6 @@
 # Tiktok dataset
 
-- TLC taxi data
+- Tiktok engagement metrics
 - **19,383 rows** (TikTok videos)
 - **12 columns**
 
