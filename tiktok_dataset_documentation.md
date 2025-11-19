@@ -17,3 +17,5 @@
 | video_share_count | float | The total number of times the published video has been shared by other users. |
 | video_download_count | float | The total number of times the published video has been downloaded by other users. |
 | video_comment_count | float | The total number of comments on the published video. |
+
+Data made available by Coursera for the [Google Advanced Data Analytics Professional Certificate program](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
