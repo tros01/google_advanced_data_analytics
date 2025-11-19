@@ -1,7 +1,7 @@
 # TLC dataset
 
-- TikTok engagement metrics
-- **408,294 rows** (trips)
+- TLC taxi data
+- **22,699** (trips)
 - **18 columns**
 
 | column name | description |
