@@ -23,3 +23,5 @@
 | Tip_amount | Tip amount -- This field is automatically populated for credit card tips. Cash tips are not included. |
 | Tolls_amount | Total amount of all tolls paid in trip. |
 | Total_amount | The total amount charged to passengers. Does not include cash tips. |
+
+Data made available by Coursera for the [Google Advanced Data Analytics Professional Certificate program](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
