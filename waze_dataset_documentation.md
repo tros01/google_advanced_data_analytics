@@ -1,5 +1,6 @@
 # Waze dataset
 
+- user behaviour data
 - **14,999 rows** (unique users)
 - **13 columns**
 
