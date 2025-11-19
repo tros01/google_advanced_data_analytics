@@ -18,3 +18,5 @@
 | duration_minutes_drives | float | Total duration driven in minutes during the month |
 | activity_days | int | Number of days the user opens the app during the month |
 | driving_days | int | Number of days the user drives (at least 1 km) during the month |
+
+Data made available by Coursera for the [Google Advanced Data Analytics Professional Certificate program](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
