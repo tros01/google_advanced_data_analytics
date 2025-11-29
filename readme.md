@@ -1,6 +1,8 @@
 # Google Advanced Data Analytics Professional Certificate
 
-- course outline and material from the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) (Coursera)
+Practice solutions and material from
+
+- [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) (Coursera)
 
 ## Course file inventory
 
